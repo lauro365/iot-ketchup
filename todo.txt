@@ -1,0 +1,26 @@
+TODO List for IoT Ketchup Project
+===================================
+
+High Priority:
+[ ] Set up development environment
+[ ] Create initial project structure
+[ ] Write project documentation
+
+Medium Priority:
+[ ] Design database schema
+[ ] Implement user authentication
+[ ] Create API endpoints
+
+Low Priority:
+[ ] Add unit tests
+[ ] Optimize performance
+[ ] Update README
+
+Completed:
+[x] Initialize git repository
+[x] Create demo files for git training
+
+Notes:
+- Remember to update this file regularly
+- Mark tasks as complete when done
+- Add new tasks as they come up

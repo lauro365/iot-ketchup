@@ -1,0 +1,21 @@
+{
+  "application": {
+    "name": "IoT Ketchup Demo",
+    "version": "1.0.0",
+    "environment": "development"
+  },
+  "server": {
+    "host": "localhost",
+    "port": 8080,
+    "timeout": 30
+  },
+  "features": {
+    "enableLogging": true,
+    "enableDebugMode": false,
+    "maxConnections": 100
+  },
+  "database": {
+    "type": "sqlite",
+    "filename": "demo.db"
+  }
+}

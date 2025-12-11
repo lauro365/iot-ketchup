@@ -1,0 +1,16 @@
+Project Team Members
+====================
+
+Development Team:
+- Alice Johnson (Team Lead)
+- Bob Smith (Backend Developer)
+- Carol White (Frontend Developer)
+
+Design Team:
+- David Brown (UI/UX Designer)
+
+Testing Team:
+- Eve Davis (QA Engineer)
+
+Project Status: Active
+Last Updated: 2025-12-10
